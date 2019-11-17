@@ -7,4 +7,4 @@ management.endpoints.web.exposure.include=*
 
 adServerServiceName=adServer-service
 serviceProtocol=http://
-servicePath=/ads
+servicePath=/tasks
