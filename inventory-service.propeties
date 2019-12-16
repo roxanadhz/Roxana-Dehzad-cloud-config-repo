@@ -1,0 +1,5 @@
+# Inventory-Service will run on
+server.port=7003
+
+# allow for RefreshScope
+management.endpoints.web.exposure.include=*
